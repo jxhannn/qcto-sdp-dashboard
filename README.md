@@ -31,7 +31,6 @@ I built it to make it easier to identify providers that might potentially offer 
 - Power BI dashboard build
 
 ### Next Step
-- Document the project properly on GitHub
 - Build the HTML version of the dashboard
 
 ## Why I Built This
